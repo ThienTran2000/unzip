@@ -1,4 +1,4 @@
-package unzip
+package uz
 
 import (
 	"archive/zip"
